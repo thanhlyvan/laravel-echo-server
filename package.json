@@ -1,10 +1,10 @@
 {
-  "name": "laravel-echo-server",
-  "version": "1.6.2",
+  "name": "laravel-echo-server-updated",
+  "version": "1.6.4",
   "description": "Laravel Echo Node JS Server for Socket.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tlaverdure/Laravel-Echo-Server.git"
+    "url": "https://github.com/LeGmask/Laravel-Echo-Server.git"
   },
   "main": "dist/index.js",
   "keywords": [
@@ -29,7 +29,7 @@
     "ioredis": "^4.16.0",
     "lodash": "^4.17.15",
     "request": "^2.88.2",
-    "socket.io": "^2.3.0",
+    "socket.io": "^4.0.2",
     "yargs": "^15.3.1"
   },
   "devDependencies": {
